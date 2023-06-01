@@ -6,7 +6,7 @@
 # How to run?
 Run following commands:
 ```
-git clone https://github.com/PdaOgu/OnlineMathExaminingDBLab.git
+git clone [https://github.com/chudau/online-math-examining.git](https://github.com/chudau/online-math-examining.git)
 cd OnlineMathExamining
 composer install
 cp .env.example .env
